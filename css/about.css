@@ -1,0 +1,21 @@
+
+.img {
+  float: left;
+  margin-right: 20px;
+  margin-left: 30%;
+}
+
+.img img {
+  height: 500px;
+  width: 400px;
+  border-radius: 8px;
+  box-shadow: 10px 5px 5px #757780;
+}
+
+.dis  {
+  float: left;
+  width: 500px;
+  margin-right: auto;
+  text-align: justify;
+  font-size: 1.5em;
+}
